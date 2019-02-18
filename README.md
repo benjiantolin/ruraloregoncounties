@@ -1,7 +1,7 @@
 # ruraloregoncounties
 Oregon Counties by Rural Population (2010 US Census)
 
-[Click here for map](benjiantolin.github.io/ruraloregoncounties/index.html)
+[Click here for map](https://benjiantolin.github.io/ruraloregoncounties/index.html)
 
 ### Introduction
 This a choropleth map of rural populations in Oregon counties. This choropleth was layed over the bing sattelite basemap then tiled using the QTiles plugin on QGIS. The resulting tiles were then layed ontop of the default grey openstreetmap baselayer.
